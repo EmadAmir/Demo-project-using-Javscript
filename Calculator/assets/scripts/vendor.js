@@ -11,3 +11,6 @@ function outputResult(result, text) {
   currentResultOutput.textContent = result;
   currentCalculationOutput.textContent = text;
 }
+
+
+//export default outputResult;
